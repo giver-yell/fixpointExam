@@ -1,0 +1,3 @@
+subnet_name,switch_failure_time
+255.255.0.0,undefined
+255.255.255.0,20
